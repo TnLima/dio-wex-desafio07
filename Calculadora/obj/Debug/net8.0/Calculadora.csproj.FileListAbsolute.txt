@@ -1,0 +1,14 @@
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.exe
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.dll
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.dll
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+G:\Programming\webdev\c#\testesUnitarios\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
